@@ -1,4 +1,4 @@
-[![banner](https://user-images.githubusercontent.com/85396426/126867475-7cac86ae-eba8-4dbf-90f4-9c67d597e681.jpg)](https://www.youtube.com/channel/UCjLXbCSK44Fw5c_6J8mmZtQ?sub_confirmation=1)
+[![banner~1](https://user-images.githubusercontent.com/85396426/126867542-d81e3528-4058-44bc-a074-cf2241e9a236.jpg)](https://www.youtube.com/channel/UCjLXbCSK44Fw5c_6J8mmZtQ?sub_confirmation=1)
 
 
 <div align="center">
