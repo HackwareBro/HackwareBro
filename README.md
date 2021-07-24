@@ -1,3 +1,5 @@
+[![banner](https://user-images.githubusercontent.com/85396426/126867475-7cac86ae-eba8-4dbf-90f4-9c67d597e681.jpg)](https://www.youtube.com/channel/UCjLXbCSK44Fw5c_6J8mmZtQ?sub_confirmation=1)
+
 
 <div align="center">
 <h3>Hi folks, I'm Hackware Bro 👋</h3>
@@ -34,7 +36,7 @@
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-profile-trophy.vercel.app/?username=HackwareBro&theme=darkhub" />
 </details>
 
- <br>
+<hr>
 <div align = "center">
 <h3><b>Connect with me:</b></h3>
 </div>
