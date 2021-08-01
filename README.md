@@ -18,24 +18,15 @@
 - 🥅 Always try to solve tricky and complicated problems
 - ⚡ Hunger of learning about new Tech
 
-<details>
-  <summary>:bar_chart:GitHub Stats</summary>
-  <table>
-    <tr>
-      <td align="center" style="padding=0;width=50%;">
-        <img src="https://github-readme-stats.vercel.app/api/?username=HackwareBro&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
-      </td>
-      <td align="center" style="padding=0;width=50%;">
-        <img src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=HackwareBroz&title_color=4F8CC9&text_color=9f9f9f&layout=compact&show_icons=true&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true" />
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary>:trophy:GitHub Trophies</summary>
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-profile-trophy.vercel.app/?username=HackwareBro&theme=darkhub" />
-</details>
-
+<br>
+<hr>
+<center>
+<a href="https://github.com/HackwareBro">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=HackwareBro&show_icons=true&theme=dark&line_height=40" alt="Milton's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HackwareBro&langs_count=5&theme=dark" alt="Milton's github stats"/>
+</a>
+ </center>
+  
 <hr>
 <div align = "center">
 <h3><b>Connect with me:</b></h3>
