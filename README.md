@@ -33,8 +33,8 @@
 
 <div align="center">
 
-<h3 style="font-weight: 900;">woo m i, reveal soon!</h3>
-<h3 style="font-weight: 900;">pains i have, heal soon!</h3>
+<h3 style="font-weight: 900;">woo m i, will reveal soon!</h3>
+<h3 style="font-weight: 900;">pains i have, will heal soon!</h3>
 05 can give what you want in completion.<br>
 <b>KEY</b> : &lt;my username&gt;_TF
 </div>
