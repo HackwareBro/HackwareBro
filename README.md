@@ -10,15 +10,37 @@
 </div>
 
 
-
-
-
-- :gem: Passionate to teach & help others
-- 🌱 Think out of the Box
-- 🥅 Always try to solve tricky and complicated problems
-- ⚡ Hunger of learning about new Tech
-
+<a href='https://github.com/HackwareBro/HackwareBro/blob/main/assets/cs.jpg'><img align="left" style="margin-right:30px" height="90" width="90" src="assets/join.gif"></a> 
+<ul>
+<li>:gem: Passionate to teach & help others</li>
+<li>🌱 Fond of creating riddles</li>
+<li>🥅 Always try to solve tricky and complicated problems</li>
+<li>⚡ Hunger of learning about new Tech</li>
+</ul>
 <br>
+
+<hr>
+<div align="center">
+<a href='https://github.com/HackwareBro/HackwareBro/blob/main/assets/AES'>
+<img align="right" height="163" width="210" src="assets/getbooks.gif"> </a>
+<i>
+<h3>Solve the Puzzle, if you want!</h3>
+</div>
+<div align="center">
+<h3>Don't be Puzzled, if you can't!</h3>
+</i>
+</div>
+
+<div align="center">
+
+<h3 style="font-weight: 900;">woo m i, reveal soon!</h3>
+<h3 style="font-weight: 900;">pains i have, heal soon!</h3>
+05 can give what you want in completion.<br>
+<b>KEY</b> : &lt;my username&gt;_TF
+</div>
+
+
+
 <hr>
 <center>
 <a href="https://github.com/HackwareBro">
