@@ -22,7 +22,7 @@
 <hr>
 <div align="center">
 <a href='https://github.com/HackwareBro/HackwareBro/blob/main/assets/AES'>
-<img align="right" height="190" width="210" src="assets/getbooks.gif"> </a>
+<img align="right" height="200" width="250" src="assets/getbooks.gif"> </a>
 <i>
 <h3>Solve the Puzzle, if you want!</h3>
 </div>
