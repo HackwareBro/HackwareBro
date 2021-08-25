@@ -1,6 +1,7 @@
 [![banner~1](https://user-images.githubusercontent.com/85396426/126867542-d81e3528-4058-44bc-a074-cf2241e9a236.jpg)](https://www.youtube.com/channel/UCjLXbCSK44Fw5c_6J8mmZtQ?sub_confirmation=1)
 
 
+
 <div align="center">
 <h3>Hi folks, I'm Hackware Bro 👋</h3>
 </div>
@@ -48,7 +49,11 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HackwareBro&langs_count=5&theme=dark" alt="Milton's github stats"/>
 </a>
  </center>
-  
+ <br/>
+  <p align="center">
+<img alt="" src=https://img.shields.io/github/stars/HackwareBro?affiliations=OWNER%2CCOLLABORATOR />
+<img alt="" src=https://komarev.com/ghpvc/?username=HackwareBro />
+</p>
 <hr>
 <div align = "center">
 <h3><b>Connect with me:</b></h3>
