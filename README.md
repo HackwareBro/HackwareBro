@@ -9,7 +9,10 @@
 <div align="center">
 <h2>Let's Encrypt your Mind!</h2>
 </div>
-
+<p align="center">
+<img alt="" src=https://img.shields.io/github/stars/HackwareBro?affiliations=OWNER%2CCOLLABORATOR />
+<img alt="" src=https://komarev.com/ghpvc/?username=HackwareBro />
+</p>
 
 <a href='https://github.com/HackwareBro/HackwareBro/blob/main/assets/cs.jpg'><img align="left" style="margin-right:30px" height="90" width="90" src="assets/join.gif"></a> 
 <ul>
@@ -50,10 +53,7 @@
 </a>
  </center>
  <br/>
-  <p align="center">
-<img alt="" src=https://img.shields.io/github/stars/HackwareBro?affiliations=OWNER%2CCOLLABORATOR />
-<img alt="" src=https://komarev.com/ghpvc/?username=HackwareBro />
-</p>
+  
 <hr>
 <div align = "center">
 <h3><b>Connect with me:</b></h3>
