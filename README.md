@@ -60,6 +60,8 @@
 </div>
 
 <div align="center">
-<a href="https://www.youtube.com/channel/UCjLXbCSK44Fw5c_6J8mmZtQ?sub_confirmation=1"><img src="https://img.shields.io/youtube/channel/subscribers/UCjLXbCSK44Fw5c_6J8mmZtQ?label=Hackware%20Bro&style=social" /></a>
-<a href="https://twitter.com/HackwareBro"><img src="https://img.shields.io/twitter/follow/HackwareBro?style=social" /></a>
+<a href="https://www.youtube.com/channel/UCjLXbCSK44Fw5c_6J8mmZtQ?sub_confirmation=1"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://twitter.com/HackwareBro"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/hackwarebro/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://medium.com/@hackwarebro"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </div>
